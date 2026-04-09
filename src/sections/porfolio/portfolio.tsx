@@ -34,7 +34,7 @@ export default function PortfolioSection() {
           >
             <Button className="mt-4 flex items-center gap-2 text-lg text-primary bg-transparent font-medium hover:bg-transparent transition">
               <Link
-                href="/projects"
+                href="https://dudiproject.netlify.app/"
                 className="flex items-center gap-2 group"
               >
                 <span className="transition group-hover:bg-gradient-to-r group-hover:from-purple group-hover:to-blue group-hover:bg-clip-text group-hover:text-transparent">
